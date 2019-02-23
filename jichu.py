@@ -15,6 +15,8 @@ import tkinter as tk
 import multiprocessing as mp
 from mpl_toolkits.mplot3d import Axes3D
 
+# add new line
+
 x=np.linspace(-3,3,50)
 
 y1=2*x+1
